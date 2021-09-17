@@ -1,0 +1,34 @@
+Reference for the JSON returned for list of currencies
+
+{"results":
+	{
+	"ALL":{"currencyName":"Albanian Lek","currencySymbol":"Lek","id":"ALL"},
+	"XCD":{"currencyName":"East Caribbean Dollar","currencySymbol":"$","id":"XCD"},
+	"EUR":{"currencyName":"Euro","currencySymbol":"€","id":"EUR"},
+	"BBD":{"currencyName":"Barbadian Dollar","currencySymbol":"$","id":"BBD"},
+	"BTN":{"currencyName":"Bhutanese Ngultrum","id":"BTN"},
+	"BND":{"currencyName":"Brunei Dollar","currencySymbol":"$","id":"BND"},
+	"XAF":{"currencyName":"Central African CFA Franc","id":"XAF"},
+	"CUP":{"currencyName":"Cuban Peso","currencySymbol":"$","id":"CUP"},
+	"USD":{"currencyName":"United States Dollar","currencySymbol":"$","id":"USD"},
+	"FKP":{"currencyName":"Falkland Islands Pound","currencySymbol":"£","id":"FKP"},
+	"GIP":{"currencyName":"Gibraltar Pound","currencySymbol":"£","id":"GIP"},
+	"HUF":{"currencyName":"Hungarian Forint","currencySymbol":"Ft","id":"HUF"},
+	"IRR":{"currencyName":"Iranian Rial","currencySymbol":"﷼","id":"IRR"},
+	"JMD":{"currencyName":"Jamaican Dollar","currencySymbol":"J$","id":"JMD"},
+	"AUD":{"currencyName":"Australian Dollar","currencySymbol":"$","id":"AUD"},
+	"LAK":{"currencyName":"Lao Kip","currencySymbol":"₭","id":"LAK"},
+	"LYD":{"currencyName":"Libyan Dinar","id":"LYD"},
+	"MKD":{"currencyName":"Macedonian Denar","currencySymbol":"ден","id":"MKD"},
+	"XOF":{"currencyName":"West African CFA Franc","id":"XOF"},
+	"NZD":{"currencyName":"New Zealand Dollar","currencySymbol":"$","id":"NZD"},
+	"OMR":{"currencyName":"Omani Rial","currencySymbol":"﷼","id":"OMR"},
+	"PGK":{"currencyName":"Papua New Guinean Kina","id":"PGK"},
+	"RWF":{"currencyName":"Rwandan Franc","id":"RWF"},
+	"WST":{"currencyName":"Samoan Tala","id":"WST"},
+	"RSD":{"currencyName":"Serbian Dinar","currencySymbol":"Дин.","id":"RSD"},
+	"SEK":{"currencyName":"Swedish Krona","currencySymbol":"kr","id":"SEK"},
+	"TZS":{"currencyName":"Tanzanian Shilling","currencySymbol":"TSh","id":"TZS"},
+	"AMD":{"currencyName":"Armenian Dram","id":"AMD"}
+	}
+}
