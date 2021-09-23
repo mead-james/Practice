@@ -6,3 +6,5 @@ A catch-all repo to store small projects I work on for practice with different p
 
 - __CurrencyConverter_Practice__ creates an interface for users to select an initial currency, input an amount, and select a currency to convert said amount into
   - Written to practice Java, OOP, and GUI programming
+- __StudentSQLite_Practice__ creates an interface for users to perform CRUD activities on a basic school information database
+  - Written to practice SQLite, database design, Java, OOP, and GUI programming
