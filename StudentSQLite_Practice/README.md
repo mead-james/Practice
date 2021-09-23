@@ -5,13 +5,13 @@ CRUD application allows user to add, view, modify, and remove students, instruct
 ### Features
 
 User can:
-    - View student info
-    - View instructor info
-    - View course info
-    - Add/modify/remove student
-    - Add/modify/remove instructor
-    - Add/modify/remove course
-    - Enroll/modify/remove student in course
+- View student info
+- View instructor info
+- View course info
+- Add/modify/remove student
+- Add/modify/remove instructor
+- Add/modify/remove course
+- Enroll/modify/remove student in course
 
 ## Purpose
 
@@ -26,8 +26,8 @@ DBManager.java connects to the database and runs SQL queries.
 UserGUI.java allows the user to interact with the database through a GUI.
 
 Utils.java stores helper methods.
-    - .sql file reader (splits .sql into multiple queries to run)
-    - GPA calculator (converts matrix of grades/credit hrs into GPA)
+- .sql file reader (splits .sql into multiple queries to run)
+- GPA calculator (converts matrix of grades/credit hrs into GPA)
 
 ## Dependencies
 
